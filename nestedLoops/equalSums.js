@@ -21,3 +21,5 @@ function equalSums(input){
    console.log(printLine);
    }
   
+equalSums(["123456",
+"124000"])
